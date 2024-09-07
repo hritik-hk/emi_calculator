@@ -21,14 +21,7 @@ This is a simple REST API for calculating EMI with a prepayment option.
    postgres:latest
 
    ```
-
-3. Create the database:
-
-   ```
-   createdb emi_calculator
-   ```
-
-4. Run the application:
+3. Run the application:
    ```
    npm run dev
    ```
